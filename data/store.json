@@ -1,0 +1,331 @@
+{
+  "swipes": {
+    "coy_01": {
+      "profileId": "coy_01",
+      "direction": "like",
+      "timestamp": "2026-11-18T20:59:50.797Z"
+    },
+    "coy_02": {
+      "profileId": "coy_02",
+      "direction": "pass",
+      "timestamp": "2026-11-18T21:00:05.149Z"
+    },
+    "coy_03": {
+      "profileId": "coy_03",
+      "direction": "like",
+      "timestamp": "2026-11-18T21:01:45.739Z"
+    },
+    "coy_04": {
+      "profileId": "coy_04",
+      "direction": "pass",
+      "timestamp": "2026-11-18T21:01:48.587Z"
+    },
+    "coy_05": {
+      "profileId": "coy_05",
+      "direction": "pass",
+      "timestamp": "2026-11-18T21:28:42.541Z"
+    },
+    "coy_06": {
+      "profileId": "coy_06",
+      "direction": "pass",
+      "timestamp": "2026-11-18T21:08:22.137Z"
+    },
+    "coy_07": {
+      "profileId": "coy_07",
+      "direction": "like",
+      "timestamp": "2026-11-18T21:30:08.900Z"
+    },
+    "coy_08": {
+      "profileId": "coy_08",
+      "direction": "pass",
+      "timestamp": "2026-11-18T21:30:24.969Z"
+    },
+    "coy_11": {
+      "profileId": "coy_11",
+      "direction": "pass",
+      "timestamp": "2026-11-19T05:57:49.586Z"
+    },
+    "coy_22": {
+      "profileId": "coy_22",
+      "direction": "like",
+      "timestamp": "2026-11-19T05:57:54.159Z"
+    },
+    "coy_09": {
+      "profileId": "coy_09",
+      "direction": "like",
+      "timestamp": "2026-11-19T05:58:40.274Z"
+    },
+    "coy_10": {
+      "profileId": "coy_10",
+      "direction": "pass",
+      "timestamp": "2026-11-19T07:04:07.316Z"
+    },
+    "coy_12": {
+      "profileId": "coy_12",
+      "direction": "pass",
+      "timestamp": "2026-11-19T07:04:08.987Z"
+    },
+    "coy_13": {
+      "profileId": "coy_13",
+      "direction": "like",
+      "timestamp": "2026-11-19T07:04:10.737Z"
+    },
+    "coy_14": {
+      "profileId": "coy_14",
+      "direction": "pass",
+      "timestamp": "2026-11-19T07:04:43.239Z"
+    },
+    "coy_23": {
+      "profileId": "coy_23",
+      "direction": "pass",
+      "timestamp": "2026-11-19T07:08:43.313Z"
+    },
+    "coy_29": {
+      "profileId": "coy_29",
+      "direction": "pass",
+      "timestamp": "2026-11-19T07:09:19.164Z"
+    },
+    "coy_15": {
+      "profileId": "coy_15",
+      "direction": "like",
+      "timestamp": "2026-11-19T07:09:41.182Z"
+    },
+    "coy_16": {
+      "profileId": "coy_16",
+      "direction": "like",
+      "timestamp": "2026-11-19T07:18:04.244Z"
+    },
+    "coy_17": {
+      "profileId": "coy_17",
+      "direction": "pass",
+      "timestamp": "2026-11-19T07:18:08.181Z"
+    },
+    "coy_18": {
+      "profileId": "coy_18",
+      "direction": "like",
+      "timestamp": "2026-11-19T07:31:50.292Z"
+    },
+    "coy_19": {
+      "profileId": "coy_19",
+      "direction": "pass",
+      "timestamp": "2026-11-19T07:37:42.331Z"
+    },
+    "coy_20": {
+      "profileId": "coy_20",
+      "direction": "like",
+      "timestamp": "2026-11-19T07:38:02.791Z"
+    }
+  },
+  "matches": [
+    {
+      "profile": {
+        "id": "coy_15",
+        "name": "Avani Bose",
+        "age": 20,
+        "photo": "https://images.unsplash.com/photo-1517365830460-955ce3ccd263?auto=format&fit=crop&w=800&q=80",
+        "bio": "Philosophy & creative writing. Will analyze your birth chart only if asked nicely.",
+        "location": "Jadavpur Kolkata",
+        "interests": [
+          "Writing",
+          "Philosophy",
+          "Tea Culture",
+          "Cat Memes"
+        ],
+        "mutualFriendsCount": 3,
+        "campusCircle": "Kolkata Literary Circle",
+        "mysteryHint": "Someone who loves creative writing secretly liked your vibe"
+      },
+      "matchedAt": "2026-11-19T07:09:41.182Z",
+      "messages": [
+        {
+          "id": "msg_welcome_1795072181182",
+          "sender": "match",
+          "text": "Hey! Looks like we both secretly liked each other on Coy 😊",
+          "timestamp": "2026-11-19T07:09:41.182Z"
+        },
+        {
+          "id": "msg_1795073467237_7a453d",
+          "sender": "user",
+          "text": "Coffee on campus tomorrow? ☕",
+          "timestamp": "2026-11-19T07:31:07.237Z"
+        }
+      ]
+    },
+    {
+      "profile": {
+        "id": "coy_13",
+        "name": "Kavya Menon",
+        "age": 21,
+        "photo": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=800&q=80",
+        "bio": "Fashion communication major. Huge fan of vintage streetwear and discovering hidden rooftop cafes.",
+        "location": "NIFT Mumbai",
+        "interests": [
+          "Fashion",
+          "Vintage",
+          "Cafes",
+          "Photography"
+        ],
+        "mutualFriendsCount": 4,
+        "campusCircle": "NIFT Mumbai • Styling Society",
+        "mysteryHint": "A fellow fashion lover has a secret crush on you!"
+      },
+      "matchedAt": "2026-11-19T07:04:10.737Z",
+      "messages": [
+        {
+          "id": "msg_welcome_1795071850738",
+          "sender": "match",
+          "text": "Hey! Looks like we both secretly liked each other on Coy 😊",
+          "timestamp": "2026-11-19T07:04:10.737Z"
+        }
+      ]
+    },
+    {
+      "profile": {
+        "id": "coy_09",
+        "name": "Ishani Roy",
+        "age": 21,
+        "photo": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?auto=format&fit=crop&w=800&q=80",
+        "bio": "Fine arts student who paints huge canvases. Always has paint stains on sleeves and good vibes.",
+        "location": "Kala Bhavana Santiniketan",
+        "interests": [
+          "Oil Painting",
+          "Museums",
+          "Matcha",
+          "Ceramics"
+        ],
+        "mutualFriendsCount": 3,
+        "campusCircle": "Fine Arts Guild",
+        "mysteryHint": "A secret admirer unlocked a slot for you!"
+      },
+      "matchedAt": "2026-11-19T05:58:40.274Z",
+      "messages": [
+        {
+          "id": "msg_welcome_1795067920274",
+          "sender": "match",
+          "text": "Hey! Looks like we both secretly liked each other on Coy 😊",
+          "timestamp": "2026-11-19T05:58:40.274Z"
+        }
+      ]
+    },
+    {
+      "profile": {
+        "id": "coy_07",
+        "name": "Dia Singhania",
+        "age": 20,
+        "photo": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=800&q=80",
+        "bio": "Journalism & media student. Collecting 35mm memories and playlist curator.",
+        "location": "Symbiosis Pune",
+        "interests": [
+          "Journalism",
+          "Photography",
+          "Curation",
+          "House Music"
+        ],
+        "mutualFriendsCount": 4,
+        "campusCircle": "Symbiosis Media Circle",
+        "mysteryHint": "This person has Coy installed via your campus link!"
+      },
+      "matchedAt": "2026-11-18T21:30:08.900Z",
+      "messages": [
+        {
+          "id": "msg_welcome_1795037408900",
+          "sender": "match",
+          "text": "Hey! Looks like we both secretly liked each other on Coy 😊",
+          "timestamp": "2026-11-18T21:30:08.900Z"
+        },
+        {
+          "id": "msg_1795037417771_xgtk5q",
+          "sender": "user",
+          "text": "Hey! Guess what? Coy actually matched us! 🎉",
+          "timestamp": "2026-11-18T21:30:17.771Z"
+        }
+      ]
+    },
+    {
+      "profile": {
+        "id": "coy_03",
+        "name": "Meera Iyer",
+        "age": 20,
+        "photo": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=800&q=80",
+        "bio": "Literature major & thrift store hoarder. Probably rereading Murakami or sketching in Cubbon Park.",
+        "location": "St. Joseph's Bangalore",
+        "interests": [
+          "Literature",
+          "Thrifting",
+          "Sketching",
+          "Vinyl Records"
+        ],
+        "mutualFriendsCount": 6,
+        "campusCircle": "St. Joseph's Bangalore",
+        "mysteryHint": "You share 6 mutual friends with this admirer!"
+      },
+      "matchedAt": "2026-11-18T21:01:45.739Z",
+      "messages": [
+        {
+          "id": "msg_welcome_1795035705739",
+          "sender": "match",
+          "text": "Hey! Looks like we both secretly liked each other on Coy 😊",
+          "timestamp": "2026-11-18T21:01:45.739Z"
+        },
+        {
+          "id": "msg_1795035717212_guj8f2",
+          "sender": "user",
+          "text": "Hey! Guess what? Coy actually matched us! 🎉",
+          "timestamp": "2026-11-18T21:01:57.212Z"
+        },
+        {
+          "id": "msg_1795035724905_0yn82g",
+          "sender": "user",
+          "text": "So... how long have you had me on your crush list? 👀",
+          "timestamp": "2026-11-18T21:02:04.905Z"
+        },
+        {
+          "id": "msg_1795035731370_93rcab",
+          "sender": "user",
+          "text": "Coffee on campus tomorrow? ☕",
+          "timestamp": "2026-11-18T21:02:11.370Z"
+        }
+      ]
+    },
+    {
+      "profile": {
+        "id": "coy_01",
+        "name": "Ananya Sharma",
+        "age": 21,
+        "photo": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=800&q=80",
+        "bio": "Architecture student at SPA Delhi. Obsessed with brutalism, specialty pour-overs & indie gigs.",
+        "location": "SPA Delhi",
+        "interests": [
+          "Architecture",
+          "Specialty Coffee",
+          "Indie Music",
+          "Film Cameras"
+        ],
+        "mutualFriendsCount": 4,
+        "campusCircle": "SPA Delhi • Batch of '25",
+        "mysteryHint": "Someone in Architecture Batch of '25 put you on their secret crush list 👀"
+      },
+      "matchedAt": "2026-11-18T20:59:50.797Z",
+      "messages": [
+        {
+          "id": "msg_welcome_1795035590797",
+          "sender": "match",
+          "text": "Hey! Looks like we both secretly liked each other on Coy 😊",
+          "timestamp": "2026-11-18T20:59:50.797Z"
+        },
+        {
+          "id": "msg_1795035598318_dqr5e",
+          "sender": "user",
+          "text": "Hey! Guess what? Coy actually matched us! 🎉",
+          "timestamp": "2026-11-18T20:59:58.318Z"
+        }
+      ]
+    }
+  ],
+  "confessionsLeft": 19,
+  "totalCrushSlots": 32,
+  "invitedFriendsCount": 9,
+  "blockedOrReportedIds": [
+    "coy_29"
+  ]
+}

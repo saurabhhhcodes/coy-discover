@@ -1,0 +1,151 @@
+@import "tailwindcss";
+
+:root {
+  --bg: #ffffff;
+  --soft: #f6f4fa;
+  --line: #ece9f2;
+  --text: #15121d;
+  --muted: #6d6979;
+  --pink: #ff3d81;
+  --pink-strong: #d81e63;
+  --pink-soft: #ffe4ef;
+  --yellow: #ffe45c;
+  --lilac: #e7e0ff;
+  --mint: #cbf4e0;
+  --sky: #d7ecff;
+  --peach: #ffe1cf;
+  --whatsapp: #25d366;
+  --ok: #0e8f48;
+  --danger: #d92d3a;
+  --edge: 2px solid var(--text);
+  --pop: 3px 3px 0 var(--text);
+  --pop-lg: 5px 5px 0 var(--text);
+  --radius: 20px;
+  --sans: "Bricolage Grotesque", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --step--1: 0.875rem;
+  --step-0: 1rem;
+  --step-1: 1.1875rem;
+  --step-2: 1.5rem;
+  --step-3: 2rem;
+  --step-4: 2.75rem;
+  --muted-on-dark: #b9b4c6;
+}
+
+@theme inline {
+  --color-coy-bg: var(--bg);
+  --color-coy-soft: var(--soft);
+  --color-coy-line: var(--line);
+  --color-coy-text: var(--text);
+  --color-coy-muted: var(--muted);
+  --color-coy-pink: var(--pink);
+  --color-coy-pink-soft: var(--pink-soft);
+  --color-coy-yellow: var(--yellow);
+  --color-coy-lilac: var(--lilac);
+  --color-coy-mint: var(--mint);
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--sans);
+  -webkit-font-smoothing: antialiased;
+  margin: 0;
+}
+
+/* Authentic Coy Neo-Brutalist Components */
+.coy-btn {
+  border: var(--edge);
+  min-height: 52px;
+  box-shadow: var(--pop);
+  background: var(--pink);
+  color: var(--text);
+  font-family: var(--sans);
+  font-weight: 800;
+  font-size: 1.0625rem;
+  letter-spacing: -0.01em;
+  cursor: pointer;
+  border-radius: 999px;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  padding: 0 24px;
+  text-decoration: none;
+  transition: transform 80ms, box-shadow 80ms, background-color 0.15s;
+  display: inline-flex;
+}
+
+.coy-btn:hover {
+  background: #ff5a94;
+}
+
+.coy-btn:active {
+  box-shadow: 1px 1px 0 var(--text);
+  transform: translate(2px, 2px);
+}
+
+.coy-btn.quiet {
+  background: var(--bg);
+  color: var(--text);
+}
+
+.coy-btn.quiet:hover {
+  background: var(--soft);
+}
+
+.coy-btn.dark {
+  background: var(--text);
+  color: #fff;
+}
+
+.coy-btn.small {
+  min-height: 40px;
+  font-size: 0.875rem;
+  padding: 0 16px;
+}
+
+.coy-row {
+  background: var(--bg);
+  border: var(--edge);
+  box-shadow: var(--pop);
+  border-radius: 18px;
+  align-items: center;
+  gap: 14px;
+  padding: 12px 14px;
+  display: flex;
+}
+
+.coy-pill {
+  font-family: var(--sans);
+  font-weight: 700;
+  font-size: 0.8125rem;
+  white-space: nowrap;
+  border-radius: 999px;
+  align-items: center;
+  gap: 4px;
+  padding: 6px 12px;
+  display: inline-flex;
+}
+
+.coy-pill.pink {
+  background: var(--pink-soft);
+  color: var(--pink-strong);
+  border: 1.5px solid var(--pink);
+}
+
+.coy-pill.mint {
+  background: var(--mint);
+  color: var(--ok);
+  border: 1.5px solid var(--ok);
+}
+
+.coy-pill.yellow {
+  background: var(--yellow);
+  color: var(--text);
+  border: 1.5px solid var(--text);
+}
+
+.coy-sheet {
+  max-width: 480px;
+  min-height: 100dvh;
+  margin: 0 auto;
+}
